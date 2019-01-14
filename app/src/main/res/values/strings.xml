@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RandomBackground</string>
+    <string name="instructions">Click the button to change the background color</string>
+    <string name="contentDescript">Color Changing Button</string>
 </resources>
